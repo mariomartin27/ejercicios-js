@@ -1,3 +1,5 @@
+const goodProducts = [];
+const badProducts = [];
 const products = [
   { name: "Gorra de rodilla", sellCount: 10 },
   { name: "Pantalón de pana", sellCount: 302 },
@@ -5,13 +7,7 @@ const products = [
   { name: "Inpar de zapatos", sellCount: 6 },
 ];
 
-const totalVentas = 0;
-
-for (const i=0; i < products.length; i++) {
-    const totalVentas = products[i];
-   
-   products +=totalVentas.sellCount
+for(let i =0; i< movies.length; i++){
+    const element = movies [i];
+    suma=products 
 }
-
-console.log(total);
-
